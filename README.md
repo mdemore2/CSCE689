@@ -1,4 +1,4 @@
-# CSCE689 - Distributed Systems
+# CSCE689 - Distributed Software Systems
 Lt Col George E. Noel, Ph.D.
 
 
