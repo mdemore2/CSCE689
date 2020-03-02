@@ -10,3 +10,6 @@
 [submodule "AFIT-CSCE689-HW4-S"]
 	path = AFIT-CSCE689-HW4-S
 	url = https://github.com/mdemore2/AFIT-CSCE689-HW4-S
+[submodule "CSCE689_FinalProject"]
+	path = CSCE689_FinalProject
+	url = https://github.com/mdemore2/CSCE689_FinalProject.git
